@@ -1,2 +1,1 @@
 # octra
-jp terus
